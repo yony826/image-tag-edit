@@ -1,0 +1,5 @@
+{
+  "apiUrl": "http://localhost:11434/v1",
+  "apiKey": "ollama",
+  "model": "qwen3.5:9b"
+}

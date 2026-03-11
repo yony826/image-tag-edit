@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude mcp list:*)",
+      "Bash(curl:*)",
+      "Bash(claude-code chat:*)",
+      "Bash(claude chat:*)",
+      "Bash(claude mcp add ollama:*)",
+      "Bash(claude mcp add --help:*)",
+      "Bash(npx -y @modelcontextprotocol/server-ollama)",
+      "Bash(npm search:*)",
+      "Bash(claude mcp remove:*)",
+      "Bash(claude:*)",
+      "Bash(findstr:*)",
+      "Bash(where:*)",
+      "Bash(cmd /c:*)",
+      "Bash(npm update:*)",
+      "Bash(source:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(cmd.exe:*)",
+      "Bash(tasklist:*)",
+      "Bash(start:*)",
+      "Bash(explorer:*)",
+      "Bash(powershell:*)",
+      "Bash(\"C:/Users/yony_/AppData/Local/Python/bin/python.exe\":*)",
+      "WebSearch",
+      "WebFetch(domain:news.ycombinator.com)",
+      "WebFetch(domain:www.36kr.com)",
+      "mcp__time__get_current_time",
+      "mcp__fetch__fetch",
+      "mcp__github__get_me",
+      "Bash(git config:*)"
+    ]
+  }
+}
